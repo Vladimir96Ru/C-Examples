@@ -17,13 +17,13 @@ int main(int argc, const char * argv[])
         float yk = ( ykp+1 )/( ykp+2 );
         if( yk-ykp < eps )
         {
-            std::cout << "Номер члена: " << k << std::endl;
-            std::cout << "Значение члена: " << yk << std::endl;
+            std::cout << "Member number: " << k << std::endl;
+            std::cout << "Member value: " << yk << std::endl;
             return 0;
         }
         ykp = yk;
     }
-    std::cout << "Член не найден." << std::endl;
+    std::cout << "Member not found." << std::endl;
     return 0;
 }
 
