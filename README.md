@@ -22,6 +22,6 @@
 
         To solve the following problems, first use the conditional statement, and then change the program so that
      to get the result using conditional operation. Calculate the value of a function using first the conditional
-     operator and then the conditional operator.
+     operator and then the conditional operator. 
 ***
 
