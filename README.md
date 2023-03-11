@@ -28,4 +28,10 @@
         conditional operation. Calculate the value of a function using first 
         the conditional operator and then the conditional operator. 
 ***
+
+        5. Shift
+        
+        In character array A[N] rotate by K < N elements to the right. 
+        The last K elements are then moved to the first K positions.
+        
 --------------------------------------------------------------------------------
