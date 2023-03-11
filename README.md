@@ -33,5 +33,11 @@
         
         In character array A[N] rotate by K < N elements to the right. 
         The last K elements are then moved to the first K positions.
+***        
+        
+        6. NxM
+        Given integers a1, a2, ..., an, an integer matrix of order nxm (m >= 6).
+        Get an n x (m+1) matrix by inserting a column of numbers into the 
+        original matrix a1, a2, ..., an in the middle.
         
 --------------------------------------------------------------------------------
